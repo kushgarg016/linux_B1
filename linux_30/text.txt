@@ -1,1 +1,1 @@
-sample file for linux_30
+/sample file for linux_30
